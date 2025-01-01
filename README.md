@@ -21,7 +21,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anujnayak108&show_icons=true&locale=en" alt="anujnayak108" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anujnayak108&" alt="anujnayak108" /></p>
-
 <img align="center" width="full" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 <br><br>
