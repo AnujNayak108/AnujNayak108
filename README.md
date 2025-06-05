@@ -3,8 +3,6 @@
 <p>&nbsp;<img align="right"  src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujnayak108&label=Profile%20views&color=0e75b6&style=flat" alt="anujnayak108" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://anujnayak108.github.io/my-website/](https://anujnayak108.github.io/my-website/)
-
 - 📫 Reach me at **anujnayak108@gmail.com**
 
 
