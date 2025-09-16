@@ -80,7 +80,7 @@ Welcome to my GitHub! I'm passionate about building impactful web applications a
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-nayak-189a83233/)
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white)](https://anujportfolio810.vercel.app/)
-- [![Email](https://img.shields.io/badge/-Email-black?logo=gmail&logoColor=white)](mailto:anujnayak108@gmail.com)
+- [![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:anujnayak108@gmail.com)
 
 ---
 
