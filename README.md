@@ -54,7 +54,6 @@ Welcome to my GitHub! I'm passionate about building impactful web applications a
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnujNayak108&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnujNayak108&theme=radical" alt="GitHub Streak" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujNayak108&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
