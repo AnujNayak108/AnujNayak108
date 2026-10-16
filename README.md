@@ -75,8 +75,6 @@
 🔧 Strong foundation in software architecture & clean code  
 🤝 Active contributor to open-source projects  
 🎵 Music enthusiast - Piano & Drums player  
-⚽ Sports lover - Badminton, Badminton  
-
 ---
 
 ## 📫 Connect With Me
