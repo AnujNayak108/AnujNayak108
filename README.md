@@ -47,7 +47,9 @@ I'm an Integrated M.Sc. Math & Computing undergrad at BIT Mesra who spends way t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujnayak108&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-[==========================----------------------] 55% Caffeine, 45% StackOverflow
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MihaiTheCoder/MihaiTheCoder/main/assets/coding.gif" width="300" alt="Coding GIF" />
+</p>
 
 ---
 
