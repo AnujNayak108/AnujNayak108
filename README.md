@@ -48,7 +48,7 @@ I'm an Integrated M.Sc. Math & Computing undergrad at BIT Mesra who spends way t
 </p>
 
 <p align="center">
-  <iframe src="https://giphy.com/embed/f3KwliaH4MLtli8z7D" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://media3.giphy.com/media/f3KwliaH4MLtli8z7D/giphy.gif" width="300" alt="Coding GIF" />
 </p>
 
 ---
