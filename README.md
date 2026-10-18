@@ -20,7 +20,6 @@ I'm an Integrated M.Sc. Math & Computing undergrad at BIT Mesra who spends way t
 * **Open Source Explorer:** Refactoring time-window logic, optimizing real-time stats, and writing unit tests. (Translation: reading other people's code and fixing their edge cases so you don't have to).
 * **Competitive Programming:** Solving DSA problems across LeetCode, Codeforces, and CodeChef because my brain apparently enjoys voluntary psychological torture.
 * **Building Things:** From real-time customer support platforms and event dashboards to automated web scrapers like *TrendFind* that find trending products before your favorite influencer does.
-* **Leadership & Chaos Management:** Serving as Technical Head at EDC BIT Mesra and Treasurer at Dhwani BIT Mesra—proving I can handle both infinite loops and finite budgets.
 
 ---
 
