@@ -48,7 +48,7 @@ I'm an Integrated M.Sc. Math & Computing undergrad at BIT Mesra who spends way t
 </p>
 
 <p align="center">
-  <iframe src="https://giphy.com/embed/f3KwliaH4MLtli8z7D" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pc-hacker-desing-f3KwliaH4MLtli8z7D"></p>
+  <iframe src="https://giphy.com/embed/f3KwliaH4MLtli8z7D" width="300" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 </p>
 
 ---
