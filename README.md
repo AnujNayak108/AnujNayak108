@@ -36,15 +36,15 @@ I'm an Integrated M.Sc. Math & Computing undergrad at BIT Mesra who spends way t
 *(Where green squares are my only source of serotonin at 3:00 AM)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Anuj's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anujnayak108&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Anuj's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujnayak108&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anujnayak108&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 [==========================----------------------] 55% Caffeine, 45% StackOverflow
