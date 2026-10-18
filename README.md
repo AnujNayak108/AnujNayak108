@@ -1,89 +1,61 @@
-# Hi, I'm Anuj Nayak 👋
+# Hi there, I'm Anuj Nayak 👋
 
-![Header](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif)
+> *"It's not a bug, it's an undocumented feature with a high-priority PR waiting to happen."*
 
-**Web Developer | Data Science Enthusiast | Open Source Contributor**
-
-![Profile Views](https://komarev.com/ghpvc/?username=AnujNayak108&color=blue)
+I'm an Integrated M.Sc. Math & Computing undergrad at BIT Mesra who spends way too much time convincing compilers that my logic is sound and convincing Git that I didn't mean to commit that. When I’m not knee-deep in algorithms or wrestling with open-source codebases, I'm probably wondering why my production environment is crying while my local machine works fine.
 
 ---
 
-## 📊 GitHub Stats & Language Distribution
+### 💻 Tech Stack & Weapons of Choice
+
+* **Languages:** C++, Python, JavaScript, TypeScript, SQL
+* **Frontend:** React.js, Next.js, TailwindCSS
+* **Backend & DB:** Node.js, Express, MongoDB, Firebase
+* **DevOps & Tools:** Docker, Git, Linux (WSL), AWS (Amplify, S3, SageMaker)
+
+---
+
+### 🛠️ What I Actually Do
+
+* **Open Source Explorer:** Refactoring time-window logic, optimizing real-time stats, and writing unit tests. (Translation: reading other people's code and fixing their edge cases so you don't have to).
+* **Competitive Programming:** Solving DSA problems across LeetCode, Codeforces, and CodeChef because my brain apparently enjoys voluntary psychological torture.
+* **Building Things:** From real-time customer support platforms and event dashboards to automated web scrapers like *TrendFind* that find trending products before your favorite influencer does.
+* **Leadership & Chaos Management:** Serving as Technical Head at EDC BIT Mesra and Treasurer at Dhwani BIT Mesra—proving I can handle both infinite loops and finite budgets.
+
+---
+
+### 🌍 Open Source Contributions
+
+* **[OpenClimateFix](https://github.com/openclimatefix):** Refactored core time-window logic and implemented rigorous unit tests to make climate data pipelines cleaner and more reliable.
+* **[Mixxx DJ Software](https://github.com/mixxx/mixxx):** Optimized real-time statistics tracking and refactored time-formatting logic using C++ and Qt (keeping the music playing smoothly without memory leaks).
+* **Other Explorations:** Frequently diving into codebase issues, discussions, and contribution workflows for community projects like *Accord Project Concerto*, *stdlib-js*, *Apicurio Registry*, and *Open Food Facts*.
+
+---
+
+### 📊 GitHub Stats & Metrics
+
+*(Where green squares are my only source of serotonin at 3:00 AM)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnujNayak108&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujNayak108&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Anuj's GitHub Stats" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-## 🛠️ Technical Skills
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![Qt](https://img.shields.io/badge/-Qt-41CD52?logo=qt&logoColor=white)
-
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+[==========================----------------------] 55% Caffeine, 45% StackOverflow
 
 ---
 
-## 🚀 Major Projects
+### 📫 Let's Connect & Check Out My Work
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **[TrendFind](https://github.com/AnujNayak108/trendfind)** | Real-time trend analysis & visualization platform | React, Node.js, MongoDB |
-| **[Second Life Commerce](https://github.com/AnujNayak108/second_life_commerce)** | Full-stack e-commerce platform for resale goods | Next.js, Express, PostgreSQL |
-| **[Customer Support System](https://github.com/AnujNayak108/customer_support)** | Intelligent customer support ticketing system | Python, React, Firebase |
+* **🌐 Portfolio Website:** [anujnayak108.vercel.app](https://anujnayak108.vercel.app) *(Where I pretend my CSS spacing is intentional)*
+* **💼 LinkedIn:** [Connect with me](https://linkedin.com) 
+* **Fun Fact:** My code has bugs, your code has bugs, therefore my code is mathematically equivalent to industry standards.
 
 ---
-
-## 🌍 Open Source Contributions
-
-### [Mixxx](https://github.com/mixxxdj/mixxx)
-*Open-source DJ software built with C++ and Qt*
-- Contributing to audio processing and UI enhancements
-- Experience with large-scale C++ projects and CMake builds
-
-### [Open Climate Fix](https://github.com/openclimatefix)
-*Climate forecasting using machine learning*
-- Working on solar power forecasting models
-- Contributing to [airflow-dags](https://github.com/openclimatefix/airflow-dags) for data pipelines
-- ML/Data science focused contributions
-
----
-
-## 🎯 About Me
-
-🎓 **Student** passionate about building impactful applications  
-💻 Full-stack web developer with data science interests  
-🔧 Strong foundation in software architecture & clean code  
-🤝 Active contributor to open-source projects  
-🎵 Music enthusiast - Piano & Drums player  
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-nayak-189a83233/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://anujnayak108.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:anujnayak108@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/AnujNayak108)
-
----
-
-**_Thanks for visiting! Feel free to explore my projects or reach out to collaborate!_** ✨
