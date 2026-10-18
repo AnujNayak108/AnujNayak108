@@ -48,7 +48,7 @@ I'm an Integrated M.Sc. Math & Computing undergrad at BIT Mesra who spends way t
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MihaiTheCoder/MihaiTheCoder/main/assets/coding.gif" width="300" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1c3Z3dTVvNnl0azR5czJ2M2Z3N3J1bW8zaWhkZHN5ZDFwbTFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Hacker GIF" />
 </p>
 
 ---
