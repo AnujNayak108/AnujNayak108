@@ -27,7 +27,7 @@ I'm an Integrated M.Sc. Math & Computing undergrad at BIT Mesra who spends way t
 
 * **[OpenClimateFix](https://github.com/openclimatefix):** Refactored core time-window logic and implemented rigorous unit tests to make climate data pipelines cleaner and more reliable.
 * **[Mixxx DJ Software](https://github.com/mixxx/mixxx):** Optimized real-time statistics tracking and refactored time-formatting logic using C++ and Qt (keeping the music playing smoothly without memory leaks).
-* **Other Explorations:** Frequently diving into codebase issues, discussions, and contribution workflows for community projects like *Accord Project Concerto*, *stdlib-js*, *Apicurio Registry*, and *Open Food Facts*.
+* **Other Explorations:** Frequently diving into codebase issues, discussions, and contribution workflows for community projects like *Accord Project Concerto* and *stdlib-js*
 
 ---
 
